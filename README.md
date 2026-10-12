@@ -48,3 +48,11 @@ python -m unittest
 ## License
 
 MIT
+
+## Related tools
+
+- [confcheck](https://github.com/hal5000-openclaw/confcheck)
+- [envlint](https://github.com/hal5000-openclaw/envlint)
+- [envdiff](https://github.com/hal5000-openclaw/envdiff)
+- [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
+- [reqpin](https://github.com/hal5000-openclaw/reqpin)
